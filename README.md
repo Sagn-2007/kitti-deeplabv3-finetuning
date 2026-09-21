@@ -24,3 +24,8 @@ The fine-tuned model achieved a validation IoU of **84.92%** and a Dice score of
 ![DeepLabV3 Road Segmentation](results/deeplabv3_visualization2.png)
 ![DeepLabV3 Road Segmentation](results/deeplabv3_visualization3.png)
 ![DeepLabV3 Road Segmentation](results/deeplabv3_visualization4.png)
+
+Author:-
+Sagnik Datta Bhowmick 
+GitHub:-
+github.com/Sagn-2007
